@@ -4,6 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: mizucoffee
+projects: WeddingCamp/1
 
 ---
 
