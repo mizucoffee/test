@@ -1,5 +1,4 @@
 blank_issues_enabled: false
 contact_links:
   - name: Create Issue
-    url: https://github.com/WeddingCamp/wedding-kanshasai-protobuf/issues/new?assignees=mizucoffee&labels=&milestone=Sprint1&projects=WeddingCamp/1&template=issue-template.md&
-    
+    url: https://github.com/WeddingCamp/wedding-kanshasai-protobuf/issues/new?assignees=mizucoffee&labels=&milestone=Sprint1&projects=WeddingCamp/1
