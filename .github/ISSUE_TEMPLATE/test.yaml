@@ -4,6 +4,8 @@ title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
   - octocat
+projects:
+  - mizucoffee/1
 body:
   - type: markdown
     attributes:
